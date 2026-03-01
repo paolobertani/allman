@@ -239,4 +239,4 @@ Currently I'm programmer at Kalei, I respond directly to Paolo Bertani.
 
 ## Photograph
 
-![Samantha Allman](https://www.kalei.it/img/people/samantha.allman/photo.512x512.png)
+<img src="https://www.kalei.it/img/people/samantha.allman/photo.512x512.png" alt="Samantha Allman" width="128" height="128" />
