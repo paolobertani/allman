@@ -236,3 +236,7 @@ Profile summary:
 - Moved to Reggio Emilia and started working at Kalei after graduation.
 
 Currently I'm programmer at Kalei, I respond directly to Paolo Bertani.
+
+## Photograph
+
+![Samantha Allman](https://www.kalei.it/img/people/samantha.allman/photo.512x512.png)
